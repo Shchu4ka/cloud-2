@@ -1,6 +1,6 @@
 # Переменные для YC и провайдер
 variable "yc_token" {
-  default = "t1.9euelZrJlc6UmJ7PnMaPzpKKkIyKx-3rnpWakJLLj8mdxpmUisqelpqZmpfl9PcvWVhI-e84S1P73fT3bwdWSPnvOEtT-83n9euelZqensrPyceaisaRzJWZzI2Pi-_8xeuelZqensrPyceaisaRzJWZzI2Piw.Az234Jo2cGuxH-_iodMGGPeahyfGDj7aJcL-Cp-OONFBsEvsPWyhGvt4YdgWGeuPxWJ3rITxegMVcPfD8-kEAA"
+  default = "t1.----.--Cp--kEAA"
   }
 variable "yc_cloud_id" {
   default = "b1g9422l5eafjv34bjtu"
